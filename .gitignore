@@ -1,0 +1,13 @@
+packages
+bin
+obj
+output
+tools
+externals
+*.userprefs
+*.DS_Store
+.vs/
+tmp-nugets/
+*.user
+_._
+**/Resource.designer.cs
